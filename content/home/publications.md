@@ -67,8 +67,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+1. Ankit Shah, Katheryn A. Farris, Rajesh Ganesan, Sushil Jajodia, "Vulnerability selection for remediation: An empirical analysis," Journal of Defense Modeling and Simulation, To appear.
 {{% /alert %}}
-
-
-Am i writing here???
