@@ -66,6 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
+Peer-Reviewed Articles
 
 1) Ankit Shah, Katheryn A. Farris, Rajesh Ganesan, Sushil Jajodia, "Vulnerability selection for remediation: An empirical analysis," Journal of Defense Modeling and Simulation, To appear.
 
@@ -92,3 +93,13 @@ subtitle = ""
 11)	Sridhar Venkatesan, Massimiliano Albanese, Ankit Shah, Rajesh Ganesan, Sushil Jajodia, "Detecting stealthy botnets in a resource-constrained environment using reinforcement learning," Proc. 4th ACM Workshop on Moving Target Defense (MTD 2017), Dallas, TX, October 30, 2017. DOI: 10.1145/3140549.3140552
 
 12) Rajesh Ganesan, Sushil Jajodia, Ankit Shah, Hasan Cam, "Dynamic scheduling of cybersecurity analysts for minimizing risk using reinforcement learning," ACM Transactions on Intelligent Systems and Technology, Vol. 8, No. 1, 2016. DOI:10.1145/2882969
+
+
+Book Chapters
+
+1)	Rajesh Ganesan, Ankit Shah, Sushil Jajodia, Hasan Cam, “Optimizing Alert Data Management Processes at a Cyber Security Operations Center,” in Adversarial and Uncertain Reasoning for Adaptive Cyber-Defense, Springer Lecture Notes in Computer Science (State-of-the-Art Survey Series), Sushil Jajodia, George Cybenko, Peng Liu, Cliff Wang, Michael Wellman, eds., Vol. 11830, 2019, In press.
+
+2)	Rajesh Ganesan, Ankit Shah, "A strategy for effective alert analysis at a cybersecurity operations center,” in From Database to Cyber Security: Essays Dedicated to Sushil Jajodia on the Occasion of His 70th Birthday, Pierangela Samarati, Indrajit Ray, Indrakshi Ray, eds., Springer Lecture Notes in Computer Science, pages 206-226. DOI:10.1007/978-3-030-04834-1_11
+
+
+3)	Rajesh Ganesan, Ankit Shah, Sushil Jajodia, Hasan Cam, “A novel metric for measuring operational effectiveness of a cybersecurity operations center,” in Network Security Metrics, Lingyu Wang, Sushil Jajodia, Anoop Singhal, eds., Springer, 2017, pages 177-207. DOI:10.1007/978-3-319-66505-4_8
