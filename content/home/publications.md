@@ -68,37 +68,35 @@ subtitle = ""
 
 Peer-Reviewed Articles
 
-1) Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Pierangela Samarati, Hasan Cam, "Adaptive alert management for balancing optimal performance among distributed CSOCs using reinforcement learning," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2019. To appear.
+1. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Pierangela Samarati, Hasan Cam, "Adaptive alert management for balancing optimal performance among distributed CSOCs using reinforcement learning," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2019. To appear.
 
-2) Ankit Shah, Katheryn A. Farris, Rajesh Ganesan, Sushil Jajodia, "Vulnerability selection for remediation: An empirical analysis," Journal of Defense Modeling and Simulation (JDMS), To appear.
+2. Ankit Shah, Katheryn A. Farris, Rajesh Ganesan, Sushil Jajodia, "Vulnerability selection for remediation: An empirical analysis," Journal of Defense Modeling and Simulation (JDMS), To appear.
 
-3) Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A two-step approach to optimal selection of alerts for investigation in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 7, July 2019, pages 1857-1870. DOI:10.1109/TIFS.2018.2886465
+3. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A two-step approach to optimal selection of alerts for investigation in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 7, July 2019, pages 1857-1870. DOI:10.1109/TIFS.2018.2886465
 
-4) Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "Understanding trade-offs between throughput, quality, and cost of alert analysis in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 5, May 2019, pages 1155-1170. DOI:10.1109/TIFS.2018.2871744
+4. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "Understanding trade-offs between throughput, quality, and cost of alert analysis in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 5, May 2019, pages 1155-1170. DOI:10.1109/TIFS.2018.2871744
 
-5) Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Dynamic optimization of the level of operational effectiveness of a CSOC under adverse conditions,” ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 9, No. 5, 2018. DOI:10.1145/3173457
+5. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Dynamic optimization of the level of operational effectiveness of a CSOC under adverse conditions,” ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 9, No. 5, 2018. DOI:10.1145/3173457
 
-6) Katheryn A. Farris, Ankit Shah, George Cybenko, Rajesh Ganesan, Sushil Jajodia, "VULCON - A system for vulnerability prioritization, mitigation, and management," ACM Transactions on Privacy and Security (TOPS), Vol. 21, No. 4, May 2018, pages 16:1-16:28. DOI:10.1145/3196884
+6. Katheryn A. Farris, Ankit Shah, George Cybenko, Rajesh Ganesan, Sushil Jajodia, "VULCON - A system for vulnerability prioritization, mitigation, and management," ACM Transactions on Privacy and Security (TOPS), Vol. 21, No. 4, May 2018, pages 16:1-16:28. DOI:10.1145/3196884
 
-7) Ankit Shah, Rajesh Ganesan, Sushil Jajodia, "A methodology for ensuring fair allocation of CSOC effort for alert investigation," Springer International Journal of Information Security (IJIS), Vol. 18, No. 2, 2019, pages 199-218. DOI:10.1007/s10207-018-0407-3
+7. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, "A methodology for ensuring fair allocation of CSOC effort for alert investigation," Springer International Journal of Information Security (IJIS), Vol. 18, No. 2, 2019, pages 199-218. DOI:10.1007/s10207-018-0407-3
 
-8) Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Adaptive reallocation of cybersecurity analysts to sensors for balancing risks between sensors,” Springer Service Oriented Computing and Applications (SOCA), Vol. 12, No. 2, 2018, pages 123-135. DOI:10.1007/s11761-018-0235-3
+8. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Adaptive reallocation of cybersecurity analysts to sensors for balancing risks between sensors,” Springer Service Oriented Computing and Applications (SOCA), Vol. 12, No. 2, 2018, pages 123-135. DOI:10.1007/s11761-018-0235-3
 
-9) Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Optimal assignment of sensors to analysts in a CSOC,” IEEE Systems Journal, Vol. 13, No. 1, March 2019, pages 1060-1071. DOI:10.1109/JSYST.2018.2809506
+9. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Optimal assignment of sensors to analysts in a CSOC,” IEEE Systems Journal, Vol. 13, No. 1, March 2019, pages 1060-1071. DOI:10.1109/JSYST.2018.2809506
 
-10) Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A methodology to measure and monitor level of operational effectiveness of a CSOC," Springer International Journal of Information Security (IJIS), Vol. 17, No. 2, 2018, pages 121-134. DOI:10.1007/s10207-017-0365-1
+10. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A methodology to measure and monitor level of operational effectiveness of a CSOC," Springer International Journal of Information Security (IJIS), Vol. 17, No. 2, 2018, pages 121-134. DOI:10.1007/s10207-017-0365-1
 
 
-11)	Sridhar Venkatesan, Massimiliano Albanese, Ankit Shah, Rajesh Ganesan, Sushil Jajodia, "Detecting stealthy botnets in a resource-constrained environment using reinforcement learning," Proc. 4th ACM Workshop on Moving Target Defense (MTD 2017), Dallas, TX, October 30, 2017. DOI: 10.1145/3140549.3140552
+11.	Sridhar Venkatesan, Massimiliano Albanese, Ankit Shah, Rajesh Ganesan, Sushil Jajodia, "Detecting stealthy botnets in a resource-constrained environment using reinforcement learning," Proc. 4th ACM Workshop on Moving Target Defense (MTD 2017), Dallas, TX, October 30, 2017. DOI: 10.1145/3140549.3140552
 
-12) Rajesh Ganesan, Sushil Jajodia, Ankit Shah, Hasan Cam, "Dynamic scheduling of cybersecurity analysts for minimizing risk using reinforcement learning," ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 8, No. 1, 2016. DOI:10.1145/2882969
-
+12. Rajesh Ganesan, Sushil Jajodia, Ankit Shah, Hasan Cam, "Dynamic scheduling of cybersecurity analysts for minimizing risk using reinforcement learning," ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 8, No. 1, 2016. DOI:10.1145/2882969
 
 Book Chapters
 
-1)	Rajesh Ganesan, Ankit Shah, Sushil Jajodia, Hasan Cam, “Optimizing Alert Data Management Processes at a Cyber Security Operations Center,” in Adversarial and Uncertain Reasoning for Adaptive Cyber-Defense, Springer Lecture Notes in Computer Science (State-of-the-Art Survey Series), Sushil Jajodia, George Cybenko, Peng Liu, Cliff Wang, Michael Wellman, eds., Vol. 11830, 2019, In press.
+1.	Rajesh Ganesan, Ankit Shah, Sushil Jajodia, Hasan Cam, “Optimizing Alert Data Management Processes at a Cyber Security Operations Center,” in Adversarial and Uncertain Reasoning for Adaptive Cyber-Defense, Springer Lecture Notes in Computer Science (State-of-the-Art Survey Series), Sushil Jajodia, George Cybenko, Peng Liu, Cliff Wang, Michael Wellman, eds., Vol. 11830, 2019, In press.
 
-2)	Rajesh Ganesan, Ankit Shah, "A strategy for effective alert analysis at a cybersecurity operations center,” in From Database to Cyber Security: Essays Dedicated to Sushil Jajodia on the Occasion of His 70th Birthday, Pierangela Samarati, Indrajit Ray, Indrakshi Ray, eds., Springer Lecture Notes in Computer Science, pages 206-226. DOI:10.1007/978-3-030-04834-1_11
+2.	Rajesh Ganesan, Ankit Shah, "A strategy for effective alert analysis at a cybersecurity operations center,” in From Database to Cyber Security: Essays Dedicated to Sushil Jajodia on the Occasion of His 70th Birthday, Pierangela Samarati, Indrajit Ray, Indrakshi Ray, eds., Springer Lecture Notes in Computer Science, pages 206-226. DOI:10.1007/978-3-030-04834-1_11
 
-
-3)	Rajesh Ganesan, Ankit Shah, Sushil Jajodia, Hasan Cam, “A novel metric for measuring operational effectiveness of a cybersecurity operations center,” in Network Security Metrics, Lingyu Wang, Sushil Jajodia, Anoop Singhal, eds., Springer, 2017, pages 177-207. DOI:10.1007/978-3-319-66505-4_8
+3.	Rajesh Ganesan, Ankit Shah, Sushil Jajodia, Hasan Cam, “A novel metric for measuring operational effectiveness of a cybersecurity operations center,” in Network Security Metrics, Lingyu Wang, Sushil Jajodia, Anoop Singhal, eds., Springer, 2017, pages 177-207. DOI:10.1007/978-3-319-66505-4_8
