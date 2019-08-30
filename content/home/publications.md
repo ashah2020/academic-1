@@ -88,5 +88,7 @@ subtitle = ""
 
 10) Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A methodology to measure and monitor level of operational effectiveness of a CSOC," Springer International Journal of Information Security, Vol. 17, No. 2, 2018, pages 121-134. DOI:10.1007/s10207-017-0365-1
 
-11) Rajesh Ganesan, Sushil Jajodia, Ankit Shah, Hasan Cam, "Dynamic scheduling of cybersecurity analysts for minimizing risk using reinforcement learning," ACM Transactions on Intelligent Systems and Technology, Vol. 8, No. 1, 2016. DOI:10.1145/2882969
 
+11)	Sridhar Venkatesan, Massimiliano Albanese, Ankit Shah, Rajesh Ganesan, Sushil Jajodia, "Detecting stealthy botnets in a resource-constrained environment using reinforcement learning," Proc. 4th ACM Workshop on Moving Target Defense (MTD 2017), Dallas, TX, October 30, 2017. DOI: 10.1145/3140549.3140552
+
+12) Rajesh Ganesan, Sushil Jajodia, Ankit Shah, Hasan Cam, "Dynamic scheduling of cybersecurity analysts for minimizing risk using reinforcement learning," ACM Transactions on Intelligent Systems and Technology, Vol. 8, No. 1, 2016. DOI:10.1145/2882969
