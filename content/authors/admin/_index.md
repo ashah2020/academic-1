@@ -24,10 +24,10 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Predictive and Prescriptive Analytics for Cybersecurity
+- Predictive and Prescriptive Analytics
 - Decision-making under Uncertainty
 - Deep Reinforcement Learning
-- Adversarial Learning
+- Adversarial Machine Learning
 - Approximate Dynamic Programming
 - Combinatorial Optimization
 
