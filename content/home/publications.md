@@ -66,9 +66,9 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
+
 1) Ankit Shah, Katheryn A. Farris, Rajesh Ganesan, Sushil Jajodia, "Vulnerability selection for remediation: An empirical analysis," Journal of Defense Modeling and Simulation, To appear.
-{{% /alert %}}
+
 {{% alert note %}}
 2) Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Pierangela Samarati, Hasan Cam, "Adaptive alert management for balancing optimal performance among distributed CSOCs using reinforcement learning," IEEE Transactions on Parallel and Distributed Systems, 2019. To appear.
 {{% /alert %}}
