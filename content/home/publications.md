@@ -74,7 +74,7 @@ Peer-Reviewed Articles
 
 3. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A two-step approach to optimal selection of alerts for investigation in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 7, July 2019, pages 1857-1870. <a href="https://doi.org/10.1109/TIFS.2018.2886465">DOI:10.1109/TIFS.2018.2886465</a>
 
-4. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "Understanding trade-offs between throughput, quality, and cost of alert analysis in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 5, May 2019, pages 1155-1170. DOI:10.1109/TIFS.2018.2871744
+4. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "Understanding trade-offs between throughput, quality, and cost of alert analysis in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 5, May 2019, pages 1155-1170. <a href="https://doi.org/10.1109/TIFS.2018.2871744">DOI:10.1109/TIFS.2018.2871744</a>
 
 5. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Dynamic optimization of the level of operational effectiveness of a CSOC under adverse conditions,” ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 9, No. 5, 2018. DOI:10.1145/3173457
 
