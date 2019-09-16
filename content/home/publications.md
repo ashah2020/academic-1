@@ -72,7 +72,7 @@ Peer-Reviewed Articles
 
 2. Ankit Shah, Katheryn A. Farris, Rajesh Ganesan, Sushil Jajodia, "Vulnerability selection for remediation: An empirical analysis," Journal of Defense Modeling and Simulation (JDMS), To appear.
 
-3. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A two-step approach to optimal selection of alerts for investigation in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 7, July 2019, pages 1857-1870. {{< ref "https://ieeexplore.ieee.org/document/8573836" >}} DOI:10.1109/TIFS.2018.2886465
+3. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A two-step approach to optimal selection of alerts for investigation in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 7, July 2019, pages 1857-1870. <a href="https://doi.org/10.1109/TIFS.2018.2886465">DOI:10.1109/TIFS.2018.2886465</a>
 
 4. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "Understanding trade-offs between throughput, quality, and cost of alert analysis in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 5, May 2019, pages 1155-1170. DOI:10.1109/TIFS.2018.2871744
 
