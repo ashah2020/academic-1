@@ -76,22 +76,22 @@ Peer-Reviewed Articles
 
 4. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "Understanding trade-offs between throughput, quality, and cost of alert analysis in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 5, May 2019, pages 1155-1170. <a href="https://doi.org/10.1109/TIFS.2018.2871744">DOI:10.1109/TIFS.2018.2871744</a>
 
-5. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Dynamic optimization of the level of operational effectiveness of a CSOC under adverse conditions,” ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 9, No. 5, 2018. DOI:10.1145/3173457
+5. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Dynamic optimization of the level of operational effectiveness of a CSOC under adverse conditions,” ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 9, No. 5, 2018. <a href="https://doi.org/10.1145/3173457">DOI:10.1145/3173457</a>
 
-6. Katheryn A. Farris, Ankit Shah, George Cybenko, Rajesh Ganesan, Sushil Jajodia, "VULCON - A system for vulnerability prioritization, mitigation, and management," ACM Transactions on Privacy and Security (TOPS), Vol. 21, No. 4, May 2018, pages 16:1-16:28. DOI:10.1145/3196884
+6. Katheryn A. Farris, Ankit Shah, George Cybenko, Rajesh Ganesan, Sushil Jajodia, "VULCON - A system for vulnerability prioritization, mitigation, and management," ACM Transactions on Privacy and Security (TOPS), Vol. 21, No. 4, May 2018, pages 16:1-16:28. <a href="https://doi.org/10.1145/3196884">DOI:10.1145/3196884</a>
 
-7. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, "A methodology for ensuring fair allocation of CSOC effort for alert investigation," Springer International Journal of Information Security (IJIS), Vol. 18, No. 2, 2019, pages 199-218. DOI:10.1007/s10207-018-0407-3
+7. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, "A methodology for ensuring fair allocation of CSOC effort for alert investigation," Springer International Journal of Information Security (IJIS), Vol. 18, No. 2, 2019, pages 199-218. <a href="https://doi.org/10.1007/s10207-018-0407-3">DOI:10.1007/s10207-018-0407-3</a>
 
-8. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Adaptive reallocation of cybersecurity analysts to sensors for balancing risks between sensors,” Springer Service Oriented Computing and Applications (SOCA), Vol. 12, No. 2, 2018, pages 123-135. DOI:10.1007/s11761-018-0235-3
+8. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Adaptive reallocation of cybersecurity analysts to sensors for balancing risks between sensors,” Springer Service Oriented Computing and Applications (SOCA), Vol. 12, No. 2, 2018, pages 123-135. <a href="https://doi.org/10.1007/s11761-018-0235-3">DOI:10.1007/s11761-018-0235-3</a>
 
-9. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Optimal assignment of sensors to analysts in a CSOC,” IEEE Systems Journal, Vol. 13, No. 1, March 2019, pages 1060-1071. DOI:10.1109/JSYST.2018.2809506
+9. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, “Optimal assignment of sensors to analysts in a CSOC,” IEEE Systems Journal, Vol. 13, No. 1, March 2019, pages 1060-1071. <a href="https://doi.org/10.1109/JSYST.2018.2809506">DOI:10.1109/JSYST.2018.2809506</a>
 
-10. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A methodology to measure and monitor level of operational effectiveness of a CSOC," Springer International Journal of Information Security (IJIS), Vol. 17, No. 2, 2018, pages 121-134. DOI:10.1007/s10207-017-0365-1
+10. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A methodology to measure and monitor level of operational effectiveness of a CSOC," Springer International Journal of Information Security (IJIS), Vol. 17, No. 2, 2018, pages 121-134. <a href="https://link.springer.com/article/10.1007/s10207-017-0365-1">DOI:10.1007/s10207-017-0365-1</a>
 
 
-11.	Sridhar Venkatesan, Massimiliano Albanese, Ankit Shah, Rajesh Ganesan, Sushil Jajodia, "Detecting stealthy botnets in a resource-constrained environment using reinforcement learning," Proc. 4th ACM Workshop on Moving Target Defense (MTD 2017), Dallas, TX, October 30, 2017. DOI: 10.1145/3140549.3140552
+11.	Sridhar Venkatesan, Massimiliano Albanese, Ankit Shah, Rajesh Ganesan, Sushil Jajodia, "Detecting stealthy botnets in a resource-constrained environment using reinforcement learning," Proc. 4th ACM Workshop on Moving Target Defense (MTD 2017), Dallas, TX, October 30, 2017. <a href="https://doi.org/10.1145/3140549.3140552">DOI:10.1145/3140549.3140552</a>
 
-12. Rajesh Ganesan, Sushil Jajodia, Ankit Shah, Hasan Cam, "Dynamic scheduling of cybersecurity analysts for minimizing risk using reinforcement learning," ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 8, No. 1, 2016. DOI:10.1145/2882969
+12. Rajesh Ganesan, Sushil Jajodia, Ankit Shah, Hasan Cam, "Dynamic scheduling of cybersecurity analysts for minimizing risk using reinforcement learning," ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 8, No. 1, 2016. <a href="https://dl.acm.org/citation.cfm?doid=2973184.2882969">DOI:10.1145/2882969</a>
 
 Book Chapters
 
@@ -99,4 +99,4 @@ Book Chapters
 
 2.	Rajesh Ganesan, Ankit Shah, "A strategy for effective alert analysis at a cybersecurity operations center,” in From Database to Cyber Security: Essays Dedicated to Sushil Jajodia on the Occasion of His 70th Birthday, Pierangela Samarati, Indrajit Ray, Indrakshi Ray, eds., Springer Lecture Notes in Computer Science, pages 206-226. DOI:10.1007/978-3-030-04834-1_11
 
-3.	Rajesh Ganesan, Ankit Shah, Sushil Jajodia, Hasan Cam, “A novel metric for measuring operational effectiveness of a cybersecurity operations center,” in Network Security Metrics, Lingyu Wang, Sushil Jajodia, Anoop Singhal, eds., Springer, 2017, pages 177-207. DOI:10.1007/978-3-319-66505-4_8
+3.	Rajesh Ganesan, Ankit Shah, Sushil Jajodia, Hasan Cam, “A novel metric for measuring operational effectiveness of a cybersecurity operations center,” in Network Security Metrics, Lingyu Wang, Sushil Jajodia, Anoop Singhal, eds., Springer, 2017, pages 177-207. <a href="https://link.springer.com/chapter/10.1007/978-3-319-66505-4_8">DOI:10.1007/978-3-319-66505-4_8</a>
