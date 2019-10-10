@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ankitshah@usf.edu"
 # phone = "813-974-5584"
-address = "4202 E Fowler Avenue, Room: ENC 2211, Tampa, FL 33620"
+# address = "4202 E Fowler Avenue, Room: ENC 2211, Tampa, FL 33620"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 # office_hours = """Monday 10:00 to 13:00<br>
