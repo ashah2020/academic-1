@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-Ankit Shah is an Assistant Professor of Industrial and Management Systems Engineering at the University of South Florida. His research is in the field of Artificial Intelligence for Cybersecurity. His research interests lie at the intersection of Computer Science, Operations Research and Information Technology with a focus on Cybersecurity issues of societal concern.
+Ankit Shah is an Assistant Professor of Industrial and Management Systems Engineering at the University of South Florida. His research is in the field of Artificial Intelligence for Cybersecurity. His research interests lie at the intersection of Computer Science, Operations Research, and Information Technology with a focus on Cybersecurity issues of societal concern.
 
 He has been a researcher in the field of Reinforcement Learning at the Lawrence Livermore National Laboratory in Livermore, CA and at the Center for Secure Information Systems in Fairfax, VA, and has over nine years of industry experience.
 
