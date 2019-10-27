@@ -23,13 +23,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+Research Interests:
 - Predictive and Prescriptive Analytics
 - Decision-making under Uncertainty
 - Deep Reinforcement Learning
-- Adversarial Machine Learning
 - Approximate Dynamic Programming
 - Combinatorial Optimization
+- Adversarial Machine Learning
 
 # education:
   # courses:
