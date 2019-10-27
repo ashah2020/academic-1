@@ -68,8 +68,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1.	Invited talk titled “Deep Reinforcement Learning Based Adversarial Evaluation of a Cyber Alert Management System”, Deep Learning and Neural Networks, INFORMS Annual Meeting 2019, Seattle, WA, October 2019 (upcoming).
-2.  Invited talk titled “A two-step approach to optimal selection of alerts for investigation in a cybersecurity operations center”, Operations Research and Cyber, INFORMS Annual Meeting 2019, Seattle, WA, October 2019 (upcoming).
+1.	Invited talk titled “Deep Reinforcement Learning Based Adversarial Evaluation of a Cyber Alert Management System”, Deep Learning and Neural Networks, INFORMS Annual Meeting 2019, Seattle, WA, October 2019.
+2.  Invited talk titled “A two-step approach to optimal selection of alerts for investigation in a cybersecurity operations center”, Operations Research and Cyber, INFORMS Annual Meeting 2019, Seattle, WA, October 2019.
 3.	Invited talk titled “Dynamic optimization of the level of operational effectiveness of a cybersecurity operations center”, INFORMS Optimization 2018, Denver, CO, March 2018.
 4.	Invited talk titled “A methodology to measure, monitor, and control the level of operational effectiveness of a CSOC”, Emerging Techniques Forum, MORS, Alexandria, VA, December 2017.
 5.	Invited talk titled “Predicting the relevance of search results using text mining and predictive analytics”, Analytics Center of Excellence, Social Security Administration, Falls Church, VA, December 2017.
