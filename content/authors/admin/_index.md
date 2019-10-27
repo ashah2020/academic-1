@@ -23,7 +23,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-Research Interests:
+interests:
 - Predictive and Prescriptive Analytics
 - Decision-making under Uncertainty
 - Deep Reinforcement Learning
