@@ -13,7 +13,7 @@ superuser: true
 
 
 # Role/position
-role: Assistant Professor of Industrial and Management Systems Engineering
+role: Assistant Professor of Industrial and Management Systems Engineering and Courtesy Assistant Professor of Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
