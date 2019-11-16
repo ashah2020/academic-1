@@ -13,7 +13,7 @@ superuser: true
 
 
 # Role/position
-role: Assistant Professor of Industrial and Management Systems Engineering and Courtesy Assistant Professor of Computer Science and Engineering
+role: Assistant Professor of Industrial and Management Systems Engineering (IMSE) and Courtesy Assistant Professor of Computer Science and Engineering (CSE)
 
 # Organizations/Affiliations
 organizations:
