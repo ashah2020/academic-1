@@ -99,7 +99,7 @@ Operations Center," ACM Transactions on the Web (TWEB), To appear.
 
 Book Chapters
 
-1.	Rajesh Ganesan, Ankit Shah, Sushil Jajodia, Hasan Cam, “Optimizing alert data management processes at a Cyber Security Operations Center,” in Adversarial and Uncertain Reasoning for Adaptive Cyber-Defense, Sushil Jajodia, George Cybenko, Peng Liu, Cliff Wang, Michael Wellman, eds., Springer Lecture Notes in Computer Science (State-of-the-Art Survey Series), Vol. 11830, 2019, pages 206-231. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-30719-6_9">DOI:10.1007/978-3-030-30719-6_9</a>
+1.	Rajesh Ganesan, Ankit Shah, Sushil Jajodia, Hasan Cam, “Optimizing alert data management processes at a Cyber Security Operations Center,” in Adversarial and Uncertain Reasoning for Adaptive Cyber-Defense, Sushil Jajodia, George Cybenko, Peng Liu, Cliff Wang, Michael Wellman, eds., Springer Lecture Notes in Computer Science (State-of-the-Art Survey Series), Vol. 11830, 2019, pages 206-231. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-30719-6_9">DOI:10.1007 / 978-3-030-30719-6_9</a>
 
 2.	Rajesh Ganesan, Ankit Shah, "A strategy for effective alert analysis at a cybersecurity operations center,” in From Database to Cyber Security: Essays Dedicated to Sushil Jajodia on the Occasion of His 70th Birthday, Pierangela Samarati, Indrajit Ray, Indrakshi Ray, eds., Springer Lecture Notes in Computer Science, pages 206-226. <a href="https://link.springer.com/chapter/10.1007/978-3-030-04834-1_11">DOI:10.1007 / 978-3-030-04834-1_11</a>
 
