@@ -31,7 +31,7 @@ interests:
 - Combinatorial Optimization
 - Adversarial Machine Learning
 
-# education:
+education:
   courses:
   - course: EIN 6936 (Graduate): Engineering Analytics II
    # institution: Stanford University
