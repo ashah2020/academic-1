@@ -32,13 +32,13 @@ interests:
 - Adversarial Machine Learning
 
 # education:
-  # courses:
-  # - course: PhD in Artificial Intelligence
+  courses:
+  - course: EIN 6936 (Graduate): Engineering Analytics II
    # institution: Stanford University
-   # year: 2012
-  # - course: MEng in Artificial Intelligence
+   year: Spring 2020
+  - course: ESI 4607 (Undergraduate): Engineering Analytics II
    # institution: Massachusetts Institute of Technology
-   # year: 2009
+   year: Spring 2020
   # - course: BSc in Artificial Intelligence
    # institution: Massachusetts Institute of Technology
    # year: 2008
