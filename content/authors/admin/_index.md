@@ -31,14 +31,14 @@ interests:
 - Combinatorial Optimization
 - Adversarial Machine Learning
 
-education:
-  courses:
-  - course: EIN 6936 (Graduate): Engineering Analytics II
+# education:
+  # courses:
+  # - course: EIN 6936 (Graduate): Engineering Analytics II
    # institution: Stanford University
-   year: Spring 2020
-  - course: ESI 4607 (Undergraduate): Engineering Analytics II
+   # year: Spring 2020
+  # - course: ESI 4607 (Undergraduate): Engineering Analytics II
    # institution: Massachusetts Institute of Technology
-   year: Spring 2020
+   # year: Spring 2020
   # - course: BSc in Artificial Intelligence
    # institution: Massachusetts Institute of Technology
    # year: 2008
