@@ -79,7 +79,7 @@ user_groups:
 
 Ankit Shah is an Assistant Professor of Industrial and Management Systems Engineering at the University of South Florida. He also holds a courtesy faculty appointment of Assistant Professor with the Computer Science and Engineering department. His research is in the field of Artificial Intelligence for Cybersecurity. His research interests lie at the intersection of Computer Science, Operations Research, and Information Technology with a focus on Cybersecurity issues of societal concern.
 
-He is serving as a Chair for the Committee’s Choice (formerly called Invited Sessions and Emerging Topics Sessions) Cybersecurity Cluster at the 2020 INFORMS Annual Meeting in National Harbor, MD.
+He is serving as a Chair for the Committee’s Choice (formerly called Invited Sessions and Emerging Topics Sessions) Cybersecurity Cluster at the 2020 INFORMS Annual Meeting in National Harbor, MD. He is also a USF I-Corps Fellow.
 
 He has been a researcher in the field of Reinforcement Learning at the Lawrence Livermore National Laboratory in Livermore, CA and at the Center for Secure Information Systems in Fairfax, VA, and has over nine years of industry experience.
 
