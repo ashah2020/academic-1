@@ -75,7 +75,7 @@ Peer-Reviewed Articles
 3. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Pierangela Samarati, Hasan Cam, "Adaptive alert management for balancing optimal performance among distributed CSOCs using reinforcement learning," IEEE Transactions on Parallel and Distributed Systems (TPDS), <a href="https://doi.org/10.1109/TPDS.2019.2927977">DOI:10.1109/TPDS.2019.2927977</a>
 
 4. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "An outsourcing model for alert analysis in a Cybersecurity
-Operations Center," ACM Transactions on the Web (TWEB), To appear.
+Operations Center," ACM Transactions on the Web (TWEB), Vol. 14, No. 1, January 2020. <a href="https://doi.org/10.1145/3372498">DOI:10.1145/ 3372498</a>
 
 5. Ankit Shah, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "A two-step approach to optimal selection of alerts for investigation in a CSOC," IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 7, July 2019, pages 1857-1870. <a href="https://doi.org/10.1109/TIFS.2018.2886465">DOI:10.1109/TIFS.2018.2886465</a>
 
