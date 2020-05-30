@@ -68,7 +68,7 @@ subtitle = ""
 
 Peer-Reviewed Articles
 
-1. Ankit Shah, Arunesh Sinha, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "Two can play that game: An adversarial evaluation of a cyber-alert inspection system,"  ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 11, No. 3, 2020. <a href="https://doi.org/10.1145 / 3377554</a>
+1. Ankit Shah, Arunesh Sinha, Rajesh Ganesan, Sushil Jajodia, Hasan Cam, "Two can play that game: An adversarial evaluation of a cyber-alert inspection system,"  ACM Transactions on Intelligent Systems and Technology (TIST), Vol. 11, No. 3, 2020, pages 1-20. <a href="https://doi.org/10.1145/3377554">DOI:10.1145/ 3377554</a>
 
 2. Ankit Shah, Katheryn A. Farris, Rajesh Ganesan, Sushil Jajodia, "Vulnerability selection for remediation: An empirical analysis," Journal of Defense Modeling and Simulation (JDMS), <a href="https://doi.org/10.1177/1548512919874129">DOI:10.1177 / 1548512919874129</a>
 
