@@ -13,11 +13,12 @@ superuser: true
 
 
 # Role/position
-role: Assistant Professor, IMSE             
-Director, AI Research Lab for Secure Systems
+role: Assistant Professor, IMSE
+Courtesy Assistant Professor, CSE
 
 # Organizations/Affiliations
 organizations:
+- name: AI Research Lab for Secure Systems
 - name: University of South Florida
   url: ""
 
