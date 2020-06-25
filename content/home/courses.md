@@ -74,7 +74,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+EIN 6935 (Graduate): Cyber Analytics
 
 EIN 6936 (Graduate): Engineering Analytics II
 
