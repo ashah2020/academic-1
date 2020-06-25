@@ -13,8 +13,8 @@ superuser: true
 
 
 # Role/position
-role: Assistant Professor, IMSE
-AI Research Lab for Secure Systems
+role: Assistant Professor, IMSE             
+Director, AI Research Lab for Secure Systems
 
 # Organizations/Affiliations
 organizations:
