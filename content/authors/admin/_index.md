@@ -15,7 +15,6 @@ superuser: true
 # Role/position
 role: Assistant Professor, IMSE
 Courtesy Assistant Professor, CSE
-Director, AI Research Lab for Secure Systems
 
 # Organizations/Affiliations
 organizations:
