@@ -18,7 +18,7 @@ Courtesy Assistant Professor, CSE
 
 # Organizations/Affiliations
 organizations:
-- name: University of South Florida
+- name: AI Research LAb for Secure Systems, University of South Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
