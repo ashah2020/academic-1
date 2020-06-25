@@ -13,7 +13,7 @@ superuser: true
 
 
 # Role/position
-role: Assistant Professor of IMSE, Courtesy Assistant Professor CSE
+role: Assistant Professor IMSE, Director, AIR Lab for Secure Systems
 
 # Organizations/Affiliations
 organizations:
